@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code and tests I've written while learning Go programming language with a Test-Driven Development (TDD) approach. Each directory corresponds to a specific concept or exercise covered during my learning journey. This README provides guidance on how to navigate and utilize the resources within this repository.
+This repository contains the code and tests I've written while re-learning Go programming language with a Test-Driven Development (TDD) approach. Each directory corresponds to a specific concept or exercise covered during my learning journey. This README provides guidance on how to navigate and utilize the resources within this repository.
 
 ## Prerequisites
 
