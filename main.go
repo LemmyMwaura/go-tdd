@@ -1,8 +1,8 @@
 package main
 
 import (
-	// di "learnTests/dependancy-injection"
-	mock "learnTests/mocking"
+	// di "github.com/lemmyMwaura/learnTDD/dependancy-injection"
+	mock "github.com/lemmyMwaura/learnTDD/mocking"
 	// "log"
 	// "net/http"
 )
