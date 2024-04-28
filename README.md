@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code and tests I've written while re-learning Go programming language with a Test-Driven Development (TDD) approach. Each directory corresponds to a specific concept or exercise covered during my learning journey. This README provides guidance on how to navigate and utilize the resources within this repository.
+This repository contains the code and tests I've written while re-learning the Go programming language with a Test-Driven Development (TDD) approach. Each directory corresponds to a specific concept or exercise covered during my learning journey. This README provides guidance on how to navigate and utilize the resources within this repository.
 
 ## Prerequisites
 
@@ -46,10 +46,6 @@ Here's a simplified example of exploring a concept within this repository:
 
 - **Go Documentation**: [Official Go Documentation](https://golang.org/doc/)
 - **Go With Tests**: [Go With Tests](https://quii.gitbook.io/learn-go-with-tests)
-
-### Contributing
-
-Contributions to this repository are welcome! If you have additional exercises, improvements, or corrections, feel free to open an issue or submit a pull request.
 
 ### License
 
